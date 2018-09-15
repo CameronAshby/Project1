@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    margin-top: 20px;
+    margin-top: 40px;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@ body {
 }
 
 .titleBar {
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     width: 80%;
     display: flex;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 .navBar {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     padding: 10px 0;
     width: 80%;
     background-color: #922D2D;
@@ -78,17 +78,18 @@ body {
 .hero {
     display: flex;
     justify-content: center;
-    width: 80%;
+    width: 60%;
+    box-shadow: 5px 10px 8px gray;
 }
 
 .heroImage {
-    width: 80%;
+    width: 100%;
     height: 400px;
 }
 
 .footer {
     width: 80%;
-    margin: 20px 0;
+    margin: 40px 0;
     padding: 20px 0;
     background-color: #922D2D;
     display: flex;
