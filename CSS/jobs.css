@@ -46,6 +46,10 @@ input {
     width: 50%;
 }
 
+.stateSelect {
+    border: 1px solid lightgray;
+}
+
 .rowInput {
     width: 100%;
 }
