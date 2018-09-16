@@ -1,0 +1,51 @@
+.jobsTitle {
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+
+.jobsForm {
+    width: 70%;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.formRow {
+    padding: 10px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.twoFields {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.oneField {
+    display: flex;
+    width: 50%;
+}
+
+input {
+    padding: 10px;
+}
+
+.stateContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stateSelect, .stateLabel {
+    width: 50%;
+}
+
+.rowInput {
+    width: 100%;
+}

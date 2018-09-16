@@ -1,6 +1,6 @@
 .faqMain {
     width: 70%;
-    font-size: 18px;
+    font-size: 24px;
     display: flex;
     flex-direction: column;
 }
@@ -8,8 +8,8 @@
 .faqTitle {
     display: flex;
     justify-content: center;
-    font-size: 24px;
-    padding-bottom: 20px;
+    font-size: 30px;
+    padding-bottom: 40px;
     font-weight: bold;
 }
 
@@ -19,16 +19,23 @@
 
 .faqExpensiveTitle {
     padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .faqExpensiveContent {
     padding: 10px 0 0 20px;
+    font-weight: normal;
+    font-size: 24px;
 }
 
 .faqBeefTitle {
-
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .faqBeefContent {
     padding: 10px 0 0 20px;
+    font-weight: normal;
+    font-size: 24px;
 }

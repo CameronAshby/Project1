@@ -4,21 +4,21 @@
 
 .aboutTitle {
     text-align: center;
-    font-size: 24px;
-    padding-bottom: 20px;
+    font-size: 30px;
+    padding-bottom: 40px;
     font-weight: bold;
 }
 
 .aboutQuote {
     font-style: italic;
-    font-size: 20px;
+    font-size: 28px;
     text-align: center;
     color: #922D2D;
     padding-bottom: 20px;
 }
 
 .aboutContent {
-    font-size: 18px;
+    font-size: 24px;
 }
 
 .aboutIntro {
