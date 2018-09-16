@@ -1,0 +1,49 @@
+.aboutMain {
+    width: 70%;
+}
+
+.aboutTitle {
+    text-align: center;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.aboutQuote {
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    color: #922D2D;
+    padding-bottom: 20px;
+}
+
+.aboutContent {
+    font-size: 18px;
+}
+
+.aboutIntro {
+    padding-bottom: 20px;
+}
+
+.aboutQuality {
+    padding-bottom: 20px;
+}
+
+.aboutMeat {
+    padding-bottom: 20px;
+}
+
+.aboutShakes {
+    padding-bottom: 20px;
+}
+
+.aboutBuns {
+    padding-bottom: 20px;
+}
+
+.aboutPotatoes {
+
+}
+
+.bold {
+    font-weight: bold;
+}
