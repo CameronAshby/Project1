@@ -13,11 +13,16 @@
 .locationMap {
     display: flex;
     justify-content: center;
-    padding-bottom: 40px;
+    box-shadow: 5px 10px 8px gray;
+    margin-bottom: 40px;
 }
 
 .locationAddress {
     font-size: 24px;
+}
+
+.locationMap iframe {
+    width: 100%;
 }
 
 .addressTitle {
