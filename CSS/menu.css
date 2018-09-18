@@ -1,0 +1,17 @@
+.menuContainer {
+
+}
+
+.menuBurgers {
+
+}
+
+.menuTitle {
+    display: flex;
+    justify-content: space-between;
+    color: #922D2D;
+}
+
+ul {
+    list-style-type: none;
+}
