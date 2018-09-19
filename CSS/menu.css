@@ -1,8 +1,37 @@
 .menuContainer {
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
 }
 
 .menuBurgers {
+
+}
+
+.burgerOptions, .burgerToppings {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+.menuFries {
+
+}
+
+.menuChicken {
+
+}
+
+.menuDrinks {
+
+}
+
+.menuCones {
+
+}
+
+.menuShakes {
 
 }
 
@@ -14,4 +43,10 @@
 
 ul {
     list-style-type: none;
+    padding-left: 20px;
+}
+
+h2 {
+    margin: 0;
+    padding-bottom: 20px;
 }

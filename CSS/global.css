@@ -15,7 +15,7 @@ body {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-.container {
+.mainContainer {
     margin-top: 40px;
     width: 100%;
     display: flex;
@@ -61,6 +61,8 @@ body {
 
 .navBar ul li a:hover{
     background-color: #BC5449;
+    color: white;
+    text-decoration: none;
 }
 
 .navList {
@@ -101,6 +103,8 @@ body {
 
 .footSubscribe:hover{
     background-color: #BC5449;
+    color: white;
+    text-decoration: none;
 }
 
 .icons {
