@@ -17,8 +17,7 @@
     font-size: 20px;
 }
 
-.faqExpensiveTitle {
-    padding-bottom: 20px;
+.faqExpensiveTitle, .faqBeefTitle {
     font-weight: bold;
     font-size: 30px;
     color: #922D2D;
@@ -26,20 +25,21 @@
 
 .faqExpensiveContent {
     padding: 10px 0 0 20px;
-    font-weight: lighter;
     font-size: 24px;
     color: black;
-}
-
-.faqBeefTitle {
-    font-weight: lighter;
-    font-size: 30px;
-    color: #922D2D;
+    font-weight: normal;
 }
 
 .faqBeefContent {
     padding: 10px 0 0 20px;
-    font-weight: normal;
     font-size: 24px;
     color: black;
+}
+
+.accordianContainer {
+    width: 70%;
+}
+
+.btn-link:hover, .btn-link:visited, .btn-link:focus {
+    text-decoration: none;
 }
