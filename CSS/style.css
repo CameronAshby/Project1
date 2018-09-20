@@ -14,3 +14,22 @@
 .carouselPic {
     height: 450px;
 }
+
+.indexVideo {
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.videoTitle {
+    font-size: 24px;
+    padding-bottom: 30px;
+}
+
+.videoContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
