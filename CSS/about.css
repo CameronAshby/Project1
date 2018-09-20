@@ -19,32 +19,20 @@
 
 .aboutContent {
     font-size: 24px;
+    font-weight: lighter;
 }
 
-.aboutIntro {
+.aboutIntro, .aboutQuality, .aboutMeat, .aboutShakes, .aboutBuns {
     padding-bottom: 20px;
-}
-
-.aboutQuality {
-    padding-bottom: 20px;
-}
-
-.aboutMeat {
-    padding-bottom: 20px;
-}
-
-.aboutShakes {
-    padding-bottom: 20px;
-}
-
-.aboutBuns {
-    padding-bottom: 20px;
-}
-
-.aboutPotatoes {
-
 }
 
 .bold {
     font-weight: bold;
+}
+
+.aboutImage {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
