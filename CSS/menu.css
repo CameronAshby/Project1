@@ -1,32 +1,52 @@
 .menuContainer {
+    width: 90%;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    width: 60%;
 }
 
-.menuBurgers {
-
+.card-img-top {
+    height: 200px;
 }
 
-.burgerOptions, .burgerToppings {
+.row {
+    justify-content: center;
+}
+
+.card {
+    padding: 10px;
+    margin: 20px;
+}
+
+.card:hover {
+    box-shadow: 5px 10px 8px gray;
+}
+
+.price {
+    color: #922D2D;
+    font-size: 30px;
+}
+
+.card-title {
+    color: #922D2D;
+    font-size: 24px;
+}
+
+.rowTitle {
     display: flex;
-    flex-direction: column;
-    width: 70%;
+    justify-content: center;
+    font-size: 32px;
 }
 
-.menuTitle {
+.rowSubtitle {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    font-size: 20px;
+    font-style: italic;
     color: #922D2D;
 }
 
-ul {
-    list-style-type: none;
-    padding-left: 20px;
-}
-
-h2 {
-    margin: 0;
-    padding-bottom: 20px;
+.card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }

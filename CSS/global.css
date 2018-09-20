@@ -55,7 +55,7 @@ body {
 .navBar {
     margin-bottom: 40px;
     padding: 10px 0;
-    width: 80%;
+    width: 90%;
     background-color: #922D2D;
 }
 
@@ -83,7 +83,7 @@ body {
 }
 
 .footer {
-    width: 80%;
+    width: 90%;
     margin: 40px 0;
     padding: 20px 0;
     background-color: #922D2D;
