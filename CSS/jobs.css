@@ -53,3 +53,17 @@ input {
 .rowInput {
     width: 100%;
 }
+
+.buttonForm {
+    display: flex;
+    justify-content: center;
+}
+
+.subBtn {
+    padding: 10px 20px;
+    margin-top: 40px;
+    background-color: white;
+    color: #922D2D;
+    border: 1px solid #922D2D;
+    font-size: 24px;
+}
