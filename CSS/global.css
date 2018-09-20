@@ -91,35 +91,66 @@ body {
     justify-content: center;
 }
 
-.footSubscribe {
-    display: flex;
-    align-items: center;
-    padding: 5px;
-    border: 1px solid white;
-    border-radius: 10px;
-    text-decoration: none;
+.iconsTitle {
     color: white;
+    font-size: 20px;
 }
 
-.footSubscribe:hover{
-    background-color: #BC5449;
-    color: white;
-    text-decoration: none;
-}
-
-.icons {
-    height: 40px;
-    padding: 5px 20px;
+.iconsContainer {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+
+.subscribeContainer {
+    height: 80%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
     justify-content: space-between;
 }
 
-.facebook {
+.formContainer {
+    width: 40%;
+}
+
+.facebook, .facebook:hover {
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.twitter, .twitter:hover {
+    color: white;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.footerContainer {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerForm {
     color: white;
 }
 
-.twitter {
+.subscribeTitle {
     color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.subBtn {
+    background-color: white;
+    color: #922D2D;
+    border: 1px solid #922D2D;
+    font-size: 20px;
+}
+
+.subBtnContainer {
+    display: flex;
+    justify-content: center;
 }
