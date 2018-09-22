@@ -4,22 +4,15 @@
 
 .aboutTitle {
     text-align: center;
-    font-size: 30px;
     padding-bottom: 40px;
     font-weight: bold;
 }
 
 .aboutQuote {
     font-style: italic;
-    font-size: 28px;
     text-align: center;
     color: #922D2D;
     padding-bottom: 20px;
-}
-
-.aboutContent {
-    font-size: 24px;
-    font-weight: lighter;
 }
 
 .aboutIntro, .aboutQuality, .aboutMeat, .aboutShakes, .aboutBuns {

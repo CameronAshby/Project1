@@ -1,5 +1,4 @@
 .locationTitle {
-    font-size: 30px;
     font-weight: bold;
     padding-bottom: 40px;
 }
@@ -17,16 +16,11 @@
     margin-bottom: 40px;
 }
 
-.locationAddress {
-    font-size: 24px;
-}
-
 .locationMap iframe {
     width: 100%;
 }
 
 .addressTitle {
-    font-size: 30px;
     font-weight: bold;
     color: #922D2D;
     padding-bottom: 10px;
