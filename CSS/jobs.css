@@ -12,7 +12,7 @@
 
 .formRow {
     padding: 10px;
-    width: 50%;
+    width: 60%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -60,4 +60,34 @@ input {
 .subBtn {
     margin-top: 40px;
     padding: 10px 20px;
+}
+
+.workHistoryTitle, .availabilityTitle {
+    margin: 20px 0;
+}
+
+.workRow {
+    padding: 10px;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.workSpan {
+    padding-bottom: 20px;
+}
+
+.availabilityBoxes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.form-check {
+    display: flex;
+    align-items: center;
 }
